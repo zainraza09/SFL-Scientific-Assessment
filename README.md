@@ -31,18 +31,19 @@
 ### 3.	ETL Flow:
 <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/ETL_Flow%20Diagram.PNG">
 
-4.	Modern ML Ops.
-a.	ML Ops is the fusion of traditional devops process in the context of data science and machine learning.
-b.	
- 
-c.	Steps Involved in Data:
-i.	Identify and collect:
-1.	First step in a dataOps enabled pipeline is identifying sources and source system where the target data lives.
-ii.	Process:
-1.	Once the source data is identified, it needs to be processed and transformed into a form that can be analyzed or explored.
-iii.	Store:
-1.	Choosing the technology that meets your organization access right, security and privacy needs. Using a dataware house or a datalake is a typical option.
-d.	Steps involved in ML:
+### 4.	Modern ML Ops.
+**a.**	ML Ops is the fusion of traditional devops process in the context of data science and machine learning.
+**b.**	
+ <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/MLOPS_Diagram.PNG">
+
+**c.	Steps Involved in Data:**
+&nbsp; i.	Identify and collect:
+&nbsp; &nbsp; &nbsp; **1.**	First step in a dataOps enabled pipeline is identifying sources and source system where the target data lives.
+&nbsp; ii.	Process:
+&nbsp; &nbsp; &nbsp; **1.**	Once the source data is identified, it needs to be processed and transformed into a form that can be analyzed or explored.
+&nbsp; iii.	Store:
+&nbsp; &nbsp; &nbsp; **1.**	Choosing the technology that meets your organization access right, security and privacy needs. Using a dataware house or a datalake is a typical option.
+**d.	Steps involved in ML:**
 i.	Extract:
 1.	The goal is to extract the feature that contains information about the data which can resolve the business problem.
 ii.	Train:
