@@ -32,7 +32,7 @@
 <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/ETL_Flow%20Diagram.PNG">
 
 ### 4.	Modern ML Ops.
-**a.**	ML Ops is the fusion of traditional devops process in the context of data science and machine learning.
+**a.**	ML Ops is the fusion of traditional devops process in the context of data science and machine learning.<br/>
 **b.**	
  <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/MLOPS_Diagram.PNG">
 
@@ -51,18 +51,18 @@
 &nbsp **iii.	Optimize:**<br/>
 &nbsp;&nbsp;&nbsp; **1**Use appropriate method to optimize the model before going live.<br/>
 **e.	Steps involved in Continuous integration:**<br/>
-i.	Plan, package and develop:
-&nbsp;&nbsp;&nbsp; **1**When the model is ready to be published, the underlying code, dependency will be pushed to repo and merged to main branch.
-2.	The push will trigger the build for the model.
-ii.	Test:
-&nbsp;&nbsp;&nbsp; **1**Afte the build is generated and packaging is done and container is ready to be shipped, the process continues with performing unit test and integration testing.
-f.	Steps involved in Continuous integration:
-i.	Staging:
-&nbsp;&nbsp;&nbsp; **1**	Staging is a place where the artifact of CD will reside.
-ii.	Release and configuration:
-&nbsp;&nbsp;&nbsp; **1**In this step the mode will be deployed to the target system.
-iii.	Validation and Monitoring.
-&nbsp;&nbsp;&nbsp; **1**	ML model will be validated in this step and monitored.
+i.	Plan, package and develop:<br/>
+&nbsp;&nbsp;&nbsp; **1**When the model is ready to be published, the underlying code, dependency will be pushed to repo and merged to main branch.<br/>
+2.	The push will trigger the build for the model.<br/>
+ii.	Test:<br/>
+&nbsp;&nbsp;&nbsp; **1**Afte the build is generated and packaging is done and container is ready to be shipped, the process continues with performing unit test and integration testing.<br/>
+f.	Steps involved in Continuous integration:<br/>
+i.	Staging:<br/>
+&nbsp;&nbsp;&nbsp; **1**	Staging is a place where the artifact of CD will reside.<br/>
+ii.	Release and configuration:<br/>
+&nbsp;&nbsp;&nbsp; **1**In this step the mode will be deployed to the target system.<br/>
+iii.	Validation and Monitoring.<br/>
+&nbsp;&nbsp;&nbsp; **1**	ML model will be validated in this step and monitored.<br/>
 
 
 
