@@ -9,11 +9,11 @@
 
   ###  b.   Benefits of Data lake and how it’s different from Datawarehouse.
   **i.**  Datawarehouse can process only structured data whereas datalake can store structured, semi-structured and unstructured data.<br/>
-      **Benefit for client:** They need not to maintain different types of databases for structured and unstructured data.<br/>
+     &nbsp; **Benefit for client:** They need not to maintain different types of databases for structured and unstructured data.<br/>
   **ii.**	Datawarehouse can scale up to certain extent and becomes exponentially more expensive but datalake can scale to any amount with less cost.<br/>
-     **Benefit for client:** Scalability with low cost<br/>
+    &nbsp; **Benefit for client:** Scalability with low cost<br/>
  **iii.**	Data ware house is mostly meant for business professional but datalake can we used by business professionals and data scientist.<br/>
-      **Benefit for client:** A unified space for everyone.<br/>
+    &nbsp;  **Benefit for client:** A unified space for everyone.<br/>
 ## 2.	What is serverless architecture? And what are pros and cons?
    ### a.	Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisions of server.
 **a.** serverless application runs in stateless compute containers that are event triggered and are fully managed by event triggers.<br/>
@@ -21,12 +21,12 @@
 **c.**	Example: Azure functions, AWS Lambda.<br/>
 **d.**	Pros: <br/>
  &nbsp; **i.**	Cheaper than traditional cloud<br/>
-   **ii.**	It scalable to any capacity.<br/>
-   **iii.**	It lowers human resource costs.<br/>
-   **iv.**	It focuses more on user experience.<br/>
+  &nbsp; **ii.**	It scalable to any capacity.<br/>
+  &nbsp; **iii.**	It lowers human resource costs.<br/>
+  &nbsp; **iv.**	It focuses more on user experience.<br/>
 **e.**	Cons:<br/>
-   **i.**	Third party has a control of the execution.<br/>
-   **ii.**	It has learning curve.<br/>
+  &nbsp; **i.**	Third party has a control of the execution.<br/>
+  &nbsp; **ii.**	It has learning curve.<br/>
 
 
 
