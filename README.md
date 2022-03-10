@@ -1,7 +1,8 @@
 ## SFL-Scientific-Assesment
 ## 1.	What is data lake?
 # a.	Data Lake:
-        A data lake is a central location that holds a large amount of data in its native or raw format.
+        i.	A data lake is a central location that holds a large amount of data in its native or raw format.
+        
         ii.	It often consolidates all of an organization’s data in one single central location, where it can be saved “as is” without the need to impose a schema.
         iii.	It stores data from all stages of refinement process starting from staging layer to compute layers.
         
