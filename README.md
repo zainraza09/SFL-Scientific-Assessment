@@ -15,8 +15,8 @@
  **iii.**	Data ware house is mostly meant for business professional but datalake can we used by business professionals and data scientist.<br/>
     &nbsp;  **Benefit for client:** A unified space for everyone.<br/>
 ## 2.	What is serverless architecture? And what are pros and cons?
-   ### a.	Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisions of server.
-**a.** serverless application runs in stateless compute containers that are event triggered and are fully managed by event triggers.<br/>
+**a.**	Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisions of server.<br/>
+&nbsp; A serverless application runs in stateless compute containers that are event triggered and are fully managed by event triggers.<br/>
 **b.**	The pricing is based on the number of executions rather than pre purchased compute capacity.<br/>
 **c.**	Example: Azure functions, AWS Lambda.<br/>
 **d.**	Pros: <br/>
