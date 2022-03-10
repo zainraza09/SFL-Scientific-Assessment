@@ -28,7 +28,8 @@
   &nbsp; **i.**	Third party has a control of the execution.<br/>
   &nbsp; **ii.**	It has learning curve.<br/>
   
-  3.	ETL Flow:
+### 3.	ETL Flow:
+<img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/ETL_Flow%20Diagram.PNG">
 
 4.	Modern ML Ops.
 a.	ML Ops is the fusion of traditional devops process in the context of data science and machine learning.
