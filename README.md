@@ -31,12 +31,12 @@
 ### 3.	ETL Flow:
 <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/ETL_Flow%20Diagram.PNG">
 
-### 4.	Modern ML Ops.
+### 4.	Modern ML Ops.<br/>
 **a.**	ML Ops is the fusion of traditional devops process in the context of data science and machine learning.<br/>
-**b.**	
- <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/MLOPS_Diagram.PNG">
+**b.**	<br/>
+ <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/MLOPS_Diagram.PNG"><br/>
 
-**c.	Steps Involved in Data:**
+**c.	Steps Involved in Data:**<br/>
 &nbsp; i.	Identify and collect:<br/>
 &nbsp; &nbsp; &nbsp; **1.**	First step in a dataOps enabled pipeline is identifying sources and source system where the target data lives.<br/>
 &nbsp; ii.	Process:<br/>
