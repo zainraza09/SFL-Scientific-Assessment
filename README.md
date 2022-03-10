@@ -11,8 +11,22 @@
   **i.**  Datawarehouse can process only structured data whereas datalake can store structured, semi-structured and unstructured data.<br/>
       **Benefit for client:** They need not to maintain different types of databases for structured and unstructured data.<br/>
   **ii.**	Datawarehouse can scale up to certain extent and becomes exponentially more expensive but datalake can scale to any amount with less cost.<br/>
-      Benefit for client: Scalability with low cost<br/>
+     **Benefit for client:** Scalability with low cost<br/>
  **iii.**	Data ware house is mostly meant for business professional but datalake can we used by business professionals and data scientist.<br/>
-      Benefit for client: A unified space for everyone.<br/>
+      **Benefit for client:** A unified space for everyone.<br/>
+## 2.	What is serverless architecture? And what are pros and cons?
+   ### a.	Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisions of server.
+**a.** serverless application runs in stateless compute containers that are event triggered and are fully managed by event triggers.<br/>
+**b.**	The pricing is based on the number of executions rather than pre purchased compute capacity.<br/>
+**c.**	Example: Azure functions, AWS Lambda.<br/>
+**d.**	Pros: <br/>
+   **i.**	Cheaper than traditional cloud<br/>
+   **ii.**	It scalable to any capacity.<br/>
+   **iii.**	It lowers human resource costs.<br/>
+   **iv.**	It focuses more on user experience.<br/>
+**e.**	Cons:<br/>
+   **i.**	Third party has a control of the execution.<br/>
+   **ii.**	It has learning curve.<br/>
+
 
 
