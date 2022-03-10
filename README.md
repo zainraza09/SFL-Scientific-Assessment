@@ -27,6 +27,41 @@
 **e.**	Cons:<br/>
   &nbsp; **i.**	Third party has a control of the execution.<br/>
   &nbsp; **ii.**	It has learning curve.<br/>
+  
+  3.	ETL Flow:
+
+4.	Modern ML Ops.
+a.	ML Ops is the fusion of traditional devops process in the context of data science and machine learning.
+b.	
+ 
+c.	Steps Involved in Data:
+i.	Identify and collect:
+1.	First step in a dataOps enabled pipeline is identifying sources and source system where the target data lives.
+ii.	Process:
+1.	Once the source data is identified, it needs to be processed and transformed into a form that can be analyzed or explored.
+iii.	Store:
+1.	Choosing the technology that meets your organization access right, security and privacy needs. Using a dataware house or a datalake is a typical option.
+d.	Steps involved in ML:
+i.	Extract:
+1.	The goal is to extract the feature that contains information about the data which can resolve the business problem.
+ii.	Train:
+1.	Training is fitting a model to your train dataset while maintaining optimal performance and meeting the requirement.
+iii.	Optimize:
+1.	Use appropriate method to optimize the model before going live.
+e.	Steps involved in Continuous integration:
+i.	Plan, package and develop:
+1.	When the model is ready to be published, the underlying code, dependency will be pushed to repo and merged to main branch.
+2.	The push will trigger the build for the model.
+ii.	Test:
+1.	Afte the build is generated and packaging is done and container is ready to be shipped, the process continues with performing unit test and integration testing.
+f.	Steps involved in Continuous integration:
+i.	Staging:
+1.	Staging is a place where the artifact of CD will reside.
+ii.	Release and configuration:
+1.	In this step the mode will be deployed to the target system.
+iii.	Validation and Monitoring.
+1.	ML model will be validated in this step and monitored.
+
 
 
 
