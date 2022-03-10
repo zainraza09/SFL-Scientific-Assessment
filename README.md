@@ -37,16 +37,16 @@
  <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/MLOPS_Diagram.PNG"><br/>
 
 **c.	Steps Involved in Data:**<br/>
-&nbsp; i.	Identify and collect:<br/>
+&nbsp; **i.	Identify and collect:**<br/>
 &nbsp; &nbsp; &nbsp; **1.**	First step in a dataOps enabled pipeline is identifying sources and source system where the target data lives.<br/>
 &nbsp; ii.	Process:<br/>
 &nbsp; &nbsp; &nbsp; **1.**	Once the source data is identified, it needs to be processed and transformed into a form that can be analyzed or explored.<br/>
 &nbsp; iii.	Store:<br/>
 &nbsp; &nbsp; &nbsp; **1.**	Choosing the technology that meets your organization access right, security and privacy needs. Using a dataware house or a datalake is a typical option.<br/>
 **d.	Steps involved in ML:**<br/>
-&nbsp;**i.	Extract:**<br/>
+&nbsp; **i.	Extract:**<br/>
 &nbsp;&nbsp;&nbsp; **1**The goal is to extract the feature that contains information about the data which can resolve the business problem.<br/>
-&nbsp**ii.	Train:**<br/>
+&nbsp **ii.	Train:**<br/>
 &nbsp;&nbsp;&nbsp; **1**Training is fitting a model to your train dataset while maintaining optimal performance and meeting the requirement.<br/>
 &nbsp **iii.	Optimize:**<br/>
 &nbsp;&nbsp;&nbsp; **1**Use appropriate method to optimize the model before going live.<br/>
