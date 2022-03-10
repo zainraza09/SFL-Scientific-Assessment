@@ -37,20 +37,20 @@
  <img width="901" alt="image" src="https://github.com/zainraza09/SFL-Scientific-Assesment/blob/main/MLOPS_Diagram.PNG">
 
 **c.	Steps Involved in Data:**
-&nbsp; i.	Identify and collect:
-&nbsp; &nbsp; &nbsp; **1.**	First step in a dataOps enabled pipeline is identifying sources and source system where the target data lives.
-&nbsp; ii.	Process:
-&nbsp; &nbsp; &nbsp; **1.**	Once the source data is identified, it needs to be processed and transformed into a form that can be analyzed or explored.
-&nbsp; iii.	Store:
-&nbsp; &nbsp; &nbsp; **1.**	Choosing the technology that meets your organization access right, security and privacy needs. Using a dataware house or a datalake is a typical option.
-**d.	Steps involved in ML:**
-i.	Extract:
-1.	The goal is to extract the feature that contains information about the data which can resolve the business problem.
-ii.	Train:
-1.	Training is fitting a model to your train dataset while maintaining optimal performance and meeting the requirement.
-iii.	Optimize:
-1.	Use appropriate method to optimize the model before going live.
-e.	Steps involved in Continuous integration:
+&nbsp; i.	Identify and collect:<br/>
+&nbsp; &nbsp; &nbsp; **1.**	First step in a dataOps enabled pipeline is identifying sources and source system where the target data lives.<br/>
+&nbsp; ii.	Process:<br/>
+&nbsp; &nbsp; &nbsp; **1.**	Once the source data is identified, it needs to be processed and transformed into a form that can be analyzed or explored.<br/>
+&nbsp; iii.	Store:<br/>
+&nbsp; &nbsp; &nbsp; **1.**	Choosing the technology that meets your organization access right, security and privacy needs. Using a dataware house or a datalake is a typical option.<br/>
+**d.	Steps involved in ML:**<br/>
+i.	Extract:<br/>
+The goal is to extract the feature that contains information about the data which can resolve the business problem.<br/>
+ii.	Train:<br/>
+1.	Training is fitting a model to your train dataset while maintaining optimal performance and meeting the requirement.<br/>
+iii.	Optimize:<br/>
+1.	Use appropriate method to optimize the model before going live.<br/>
+e.	Steps involved in Continuous integration:<br/>
 i.	Plan, package and develop:
 1.	When the model is ready to be published, the underlying code, dependency will be pushed to repo and merged to main branch.
 2.	The push will trigger the build for the model.
