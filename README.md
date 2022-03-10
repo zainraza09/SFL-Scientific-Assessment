@@ -46,25 +46,20 @@
 **d.	Steps involved in ML:**<br/>
 &nbsp; **i.	Extract:**<br/>
 &nbsp;&nbsp;&nbsp; **1**The goal is to extract the feature that contains information about the data which can resolve the business problem.<br/>
-&nbsp **ii.	Train:**<br/>
+&nbsp; **ii.	Train:**<br/>
 &nbsp;&nbsp;&nbsp; **1**Training is fitting a model to your train dataset while maintaining optimal performance and meeting the requirement.<br/>
-&nbsp **iii.	Optimize:**<br/>
+&nbsp; **iii.	Optimize:**<br/>
 &nbsp;&nbsp;&nbsp; **1**Use appropriate method to optimize the model before going live.<br/>
 **e.	Steps involved in Continuous integration:**<br/>
-i.	Plan, package and develop:<br/>
+**i.	Plan, package and develop:**<br/>
 &nbsp;&nbsp;&nbsp; **1**When the model is ready to be published, the underlying code, dependency will be pushed to repo and merged to main branch.<br/>
-2.	The push will trigger the build for the model.<br/>
-ii.	Test:<br/>
+&nbsp;&nbsp;&nbsp;**2.**	The push will trigger the build for the model.<br/>
+&nbsp;**ii.	Test:**<br/>
 &nbsp;&nbsp;&nbsp; **1**Afte the build is generated and packaging is done and container is ready to be shipped, the process continues with performing unit test and integration testing.<br/>
-f.	Steps involved in Continuous integration:<br/>
-i.	Staging:<br/>
+**f.	Steps involved in Continuous integration:**<br/>
+&nbsp;**i.	Staging:**<br/>
 &nbsp;&nbsp;&nbsp; **1**	Staging is a place where the artifact of CD will reside.<br/>
-ii.	Release and configuration:<br/>
+&nbsp;**ii.	Release and configuration:**<br/>
 &nbsp;&nbsp;&nbsp; **1**In this step the mode will be deployed to the target system.<br/>
-iii.	Validation and Monitoring.<br/>
+&nbsp;**iii.	Validation and Monitoring.**<br/>
 &nbsp;&nbsp;&nbsp; **1**	ML model will be validated in this step and monitored.<br/>
-
-
-
-
-8
