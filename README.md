@@ -20,7 +20,7 @@
 **b.**	The pricing is based on the number of executions rather than pre purchased compute capacity.<br/>
 **c.**	Example: Azure functions, AWS Lambda.<br/>
 **d.**	Pros: <br/>
-   **i.**	Cheaper than traditional cloud<br/>
+ &nbsp; **i.**	Cheaper than traditional cloud<br/>
    **ii.**	It scalable to any capacity.<br/>
    **iii.**	It lowers human resource costs.<br/>
    **iv.**	It focuses more on user experience.<br/>
